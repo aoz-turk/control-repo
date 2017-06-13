@@ -30,4 +30,5 @@ node default {
   # Example:
   #   class { 'my_class': }
   # Test
+  # New line 
 }
