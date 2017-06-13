@@ -17,4 +17,4 @@ forge "http://forge.puppetlabs.com"
 #  :branch => 'docs_experiment'
 
 
-mod 'puppetlabs/apache'
+mod 'puppetlabs/ntp'
