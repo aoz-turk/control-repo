@@ -19,3 +19,6 @@ forge "http://forge.puppetlabs.com"
 
 mod 'puppetlabs/ntp'
 mod 'puppetlabs/apache'
+
+mod 'user', ref: 'test',
+  :git    => 'https://github.com/aoz-turk/ahmet-user'
