@@ -20,4 +20,4 @@ forge "http://forge.puppetlabs.com"
 mod 'puppetlabs/apache'
 
 mod 'user',
-  :git    => 'https://github.com/aoz-turk/modules/tree/master/user'
+  :git    => 'https://github.com/aoz-turk/user'
