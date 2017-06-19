@@ -19,5 +19,5 @@ forge "http://forge.puppetlabs.com"
 
 mod 'puppetlabs/apache'
 
-#mod 'user',
-#  :git    => 'https://github.com/aoz-turk/ahmet-user'
+mod 'user',
+  :git    => 'https://github.com/aoz-turk/ahmet-user'
