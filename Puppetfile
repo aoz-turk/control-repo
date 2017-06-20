@@ -21,3 +21,7 @@ mod 'puppetlabs/apache'
 
 mod 'user', ref: 'production',
   :git    => 'https://github.com/aoz-turk/ahmet-user'
+
+
+mod 'file', ref: 'production',
+  :git    => 'https://github.com/aoz-turk/ahmet-file'
