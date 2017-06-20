@@ -26,3 +26,6 @@ mod 'user', ref: 'test',
 
 mod 'file', ref: 'test',
   :git    => 'https://github.com/aoz-turk/ahmet-file'
+
+mod 'if_else',
+  :git    => 'https://github.com/aoz-turk/if-else'
