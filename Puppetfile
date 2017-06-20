@@ -23,8 +23,8 @@ mod 'user', ref: 'production',
   :git    => 'https://github.com/aoz-turk/ahmet-user'
 
 
-#mod 'file', ref: 'production',
-#  :git    => 'https://github.com/aoz-turk/ahmet-file'
+mod 'file', ref: 'production',
+  :git    => 'https://github.com/aoz-turk/ahmet-file'
 
 mod 'if_else', ref: 'production',
   :git    => 'https://github.com/aoz-turk/if-else'
