@@ -26,5 +26,5 @@ mod 'user', ref: 'production',
 mod 'file', ref: 'production',
   :git    => 'https://github.com/aoz-turk/ahmet-file'
 
-mod 'ifelse', ref: 'production',
+mod 'if-else', ref: 'production',
   :git    => 'https://github.com/aoz-turk/if-else'
